@@ -7,7 +7,7 @@ Enter course name here.
 Enter topic here.
 
 ## Date
-Enter date here.
+Enter date in YYYY-MM-DD format (e.g., 2026-10-31).
 
 ## Key Concepts
 - 
@@ -30,3 +30,4 @@ Add relevant examples here.
 ## References
 
 Add useful references here.
+
