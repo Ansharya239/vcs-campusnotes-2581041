@@ -15,3 +15,21 @@ To understand and practice Git and GitHub workflows.
 ## Clone Workflow Test
 
 This change was made from the cloned repository.
+
+## Course Note Template
+
+The project includes a reusable course note template located at:
+
+`templates/course-note-template.md`
+
+The template provides sections for:
+
+- Course name and topic
+- Date in YYYY-MM-DD format
+- Key concepts
+- Summary
+- Examples
+- Questions
+- References
+
+Students can use this template to organize their academic notes consistently.
