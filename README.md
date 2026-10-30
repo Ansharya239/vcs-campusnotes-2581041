@@ -12,3 +12,6 @@ To understand and practice Git and GitHub workflows.
 - Branching
 - Pull Requests
 - Version Control
+## Clone Workflow Test
+
+This change was made from the cloned repository.
